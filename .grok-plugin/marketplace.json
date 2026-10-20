@@ -468,7 +468,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/celigo/ai.git",
-        "sha": "5358f14010970bba3028d2c3eac489a530c39f38"
+        "sha": "1e919c746635c3b46f51f2028f5752ce5ad7a871"
       },
       "homepage": "https://github.com/celigo/ai",
       "keywords": ["celigo", "celigo integration", "celigo flow", "celigo mcp", "integrator.io"],

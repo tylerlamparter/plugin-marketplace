@@ -115,8 +115,8 @@
       }
     },
     "celigo": {
-      "sha": "5358f14010970bba3028d2c3eac489a530c39f38",
-      "version": "0.2.0",
+      "sha": "1e919c746635c3b46f51f2028f5752ce5ad7a871",
+      "version": "0.3.0",
       "components": {
         "commands": [
           {
